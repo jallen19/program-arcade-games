@@ -6,17 +6,17 @@
   1. Give an example of a binary number. (While a number such as ``1'' can be a
      binary, decimal, and hexadecimal number, try coming up with an example that
      better illustrates the differences between the different bases of numbers.)
-
+    101101
   2. Give an example of a decimal number.
-
+    82
   3. Give an example of a hexadecimal number.
-
+    3FA
   4. Convert the numbers 1, 10, 100, 1000, and 10000 from binary to decimal.
-
+    1, 2, 4, 8, 16
   5. What is a compiler?
-
+    It is a program that turns menmonics into numbedrs that represent commands
   6. What is source code?
-
+    
   7. What is machine language? (Don't just say binary. That's not correct.)
 
   8. What is a first generation language? (Don't just say binary. That's not correct.)
