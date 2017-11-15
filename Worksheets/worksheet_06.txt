@@ -48,14 +48,14 @@
 
      while x <= 0:
          print("Too small. Enter a number greater than zero: ")
-     
+     change it from a while statement to an if statement
   6. Fix the following code:
      
      x = 10
 
-     while x < 0:
+     while x >= 0:
          print(x)
-         x - 1
+         x = x - 1
 
      print("Blast-off")
      
@@ -66,7 +66,7 @@
      for i in range(10):
          print(i)
          i += 1
-     
+     you can take out i = 0 and i += 1 because it automatically starts at 0 and the function is performed becasue of the range
   8. Explain why the values printed for x are so different. (2 pts)
      
      # Sample 1
@@ -85,4 +85,4 @@
              x += 1
      print(x)
      
-      
+      The second sample performs j ten times each before going and performing i again
